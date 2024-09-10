@@ -9,101 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6462200-3cba-45d0-8d14-1332213d4a3c" name="Changes" comment="Comit inicial">
+    <list default="true" id="b6462200-3cba-45d0-8d14-1332213d4a3c" name="Changes" comment="Inicio projeto">
       <changelist_data name="Breno" email="" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Application/CleanArchMvc.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain.Tests/CategoryUnitTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain.Tests/ProductUniTests1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Entities/Category.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Entities/Entity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Entities/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/ICategoryRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/IProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Validation/DomainExceptionValidation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Shared/_Layout.cshtml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.WebUI/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CleanArchMvc.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/Context/ApplicationDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/EntitiesConfiguration/CategoryConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/EntitiesConfiguration/ProductConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/Repositories/CategoryRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/Repositories/ProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.IoC/DependecyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchMvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/ICategoryRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/ICategoryRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/IProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CleanArchMvc.Domain/Interfaces/IProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +127,7 @@
       <updated>1725910294532</updated>
       <workItem from="1725910295602" duration="3081000" />
       <workItem from="1725973502821" duration="3309000" />
+      <workItem from="1725992715412" duration="4937000" />
     </task>
     <servers />
   </component>
@@ -221,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Comit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit inicial" />
+    <MESSAGE value="Inicio projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio projeto" />
   </component>
 </project>
