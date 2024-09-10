@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac4f1ffd_002Dcdb7_002D478c_002Db990_002Da90b0ee7d3a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CategoryUnitTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::44788FC7-CE8B-4CB0-A80B-964223F3D790::net8.0::CleanArchMvc.Domain.Tests.CategoryUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::44788FC7-CE8B-4CB0-A80B-964223F3D790::net8.0::CleanArchMvc.Domain.Tests.ProductUniTests1.CreateProduct_WithInvalidParameters_ResultObjectInvalidState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::44788FC7-CE8B-4CB0-A80B-964223F3D790::net8.0::CleanArchMvc.Domain.Tests.ProductUniTests1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
